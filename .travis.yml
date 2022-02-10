@@ -43,4 +43,5 @@ install:
   - gem install dpl --pre
   - dpl releases --token $Github_kostinus_TOKEN --file "bin/Ping-Pong_k-1.0-arm64-v8a-debug.apk" --tag_name "v.1.0"
   - echo "OK"
+
 github-token: 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
