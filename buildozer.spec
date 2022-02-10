@@ -4,7 +4,7 @@
 title = Ping-Pong_by_Kostinus
 
 # (str) Package name
-package.name = Ping-Pong
+package.name = Ping-Pong_k
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.kostia
